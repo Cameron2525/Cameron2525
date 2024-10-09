@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **JavaScript, React, and CSS animations.**  
 - 💞️ I’m looking to collaborate on **open-source projects, web applications, and design initiatives.**  
 - 📫 How to reach me: **[cameron.slabbert@connectsolutions.org.za](mailto:cameron.slabbert@connectsolutions.org.za)**  
-- 😄 Pronouns: **He/Him**  
+- 😄 Pronouns: 
 - ⚡ Fun fact: **I’m a huge fan of solving puzzles—both in code and on my favorite escape room games!**  
 
 <!---
