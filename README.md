@@ -18,8 +18,8 @@
 <p>Check out my latest projects:</p>
 <ul>
   <li>
-    <a href="https://github.com/Cameron2525/Project1" target="_blank">
-      <img src="https://img.shields.io/badge/Project1-%23E34F26.svg?style=flat-square" alt="Project1" /> Project 1: Description of project
+    <a href=" https://cameron2525.github.io/PokemonSearchApp/" target="_blank">
+      <img src="https://img.shields.io/badge/Project1-%23E34F26.svg?style=flat-square" alt="Project1" />
     </a>
   </li>
   <li>
