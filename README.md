@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Cameron Slabbert](https://github.com/Cameron2525)  
+# Hi, I’m [Cameron Slabbert](https://github.com/Cameron2525)  
 
 🎨 **About Me**  
 - 👀 I’m interested in **web development, UI/UX design, and front-end frameworks.**  
