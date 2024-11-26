@@ -42,13 +42,3 @@
 </p>
 
 ---
-
-🔗 **Connect with Me**  
-<p>
-  <a href="[https://www.linkedin.com/in/cameron-slabbert/](https://www.linkedin.com/in/cameron-slabbert-776a1a333/)">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Cameron2525">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
