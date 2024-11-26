@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Cameron Slabbert](https://github.com/Cameron2525)  
+# Hi, I’m [Cameron Slabbert](https://github.com/Cameron2525)  
 
 🎨 **About Me**  
 - 👀 I’m interested in **web development, UI/UX design, and front-end frameworks.**  
@@ -16,13 +16,13 @@
 
 💻 **Languages and Tools**  
 <p>
-  <a href=" https://cameron2525.github.io/Personal-Portfolio/" target="_blank">
+  <a href="https://cameron2525.github.io/Personal-Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
   </a>
-  <a href=" https://cameron2525.github.io/Personal-Portfolio/" target="_blank">
+  <a href="https://cameron2525.github.io/Personal-Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
   </a>
-  <a href=" https://cameron2525.github.io/PokemonSearchApp/" target="_blank">
+  <a href="https://cameron2525.github.io/PokemonSearchApp/" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
   </a>
   <a href="https://reactjs.org/" target="_blank">
@@ -32,7 +32,6 @@
     <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
   </a>
 </p>
-
 
 ---
 
