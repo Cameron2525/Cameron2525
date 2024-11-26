@@ -36,9 +36,18 @@
 ---
 
 📊 **GitHub Stats**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cameron2525&show_icons=true&theme=onedark" alt="Cameron's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cameron2525&theme=onedark" alt="Cameron's Streak Stats"/>
-</p>
+<section id="stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cameron2525&theme=tokyonight" alt="GithubStat"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cameron2525&theme=tokyonight" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cameron2525&theme=tokyonight" alt="ProgramLanguage"/>
+</section>
+
+<div>
+  <img src="https://komarev.com/ghpvc/?username=Cameron2525&color=blueviolet&style=plastic" alt="widget to count page views"> 
+</div>
+
+<section id="waka">
+  <!-- Additional WakaTime stats can go here -->
+</section>
 
 ---
