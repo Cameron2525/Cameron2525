@@ -15,24 +15,24 @@
 ---
 
 💻 **Languages and Tools**  
-<p>Check out my latest projects:</p>
-<ul>
-  <li>
-    <a href=" https://cameron2525.github.io/PokemonSearchApp/" target="_blank">
-      <img src="https://img.shields.io/badge/Project1-%23E34F26.svg?style=flat-square" alt="Project1" />
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/Cameron2525/Project2" target="_blank">
-      <img src="https://img.shields.io/badge/Project2-%231572B6.svg?style=flat-square" alt="Project2" /> Project 2: Description of project
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/Cameron2525/Project3" target="_blank">
-      <img src="https://img.shields.io/badge/Project3-%23F7DF1E.svg?style=flat-square" alt="Project3" /> Project 3: Description of project
-    </a>
-  </li>
-</ul>
+<p>
+  <a href=" https://cameron2525.github.io/Personal-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  </a>
+  <a href=" https://cameron2525.github.io/Personal-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  </a>
+  <a href=" https://cameron2525.github.io/PokemonSearchApp/" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+  </a>
+</p>
+
 
 ---
 
