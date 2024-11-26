@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **JavaScript, React, and CSS animations.**  
 - 💞️ I’m looking to collaborate on **open-source projects, web applications, and design initiatives.**  
 - 📫 How to reach me: **[cameron.slabbert@connectsolutions.org.za](mailto:cameron.slabbert@connectsolutions.org.za)**  
-[![trophy](https://github-profile-trophy.vercel.app/?username=CameronSlabbert&theme=dracula)](https://github.com/CameronSlabbert/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CameronSlabbert&theme=dracula&row=1&column=6)](https://github.com/CameronSlabbert/github-profile-trophy)
 - ⚡ Fun fact: **I’m a huge fan of solving puzzles—both in code and on my favorite escape room games!**
 
 Cameron2525/Cameron2525 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
