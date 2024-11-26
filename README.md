@@ -10,7 +10,7 @@
 ---
 
 🏆 **GitHub Trophies**  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Cameron2525&theme=onedark)](https://github.com/Cameron2525)
+[![trophy](https://github.com/Cameron2525/?username=Cameron2525&theme=onedark)](https://github.com/Cameron2525)
 
 ---
 
