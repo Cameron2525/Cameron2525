@@ -1,4 +1,4 @@
-# Hi, I’m [Cameron Slabbert](https://github.com/Cameron2525)  
+# 👋 Hi, I’m [Cameron Slabbert](https://github.com/Cameron2525)  
 
 🎨 **About Me**  
 - 👀 I’m interested in **web development, UI/UX design, and front-end frameworks.**  
@@ -10,7 +10,7 @@
 ---
 
 🏆 **GitHub Trophies**  
-![trophy](https://github-profile-trophy.vercel.app/?username=Cameron2525&theme=onedark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Cameron2525&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -42,4 +42,3 @@
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
