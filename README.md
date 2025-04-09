@@ -10,11 +10,15 @@ Fun fact: When I’m not coding, you’ll find me cracking puzzles—both in cod
 
 ## 🏆 GitHub Trophies
 
-<!-- These trophy images come from the popular github-profile-trophy project -->
-![Trophy](https://github-profile-trophy.vercel.app/?username=Cameron2525&theme=onedark&row=1&column=4)
-![Trophy](https://github-profile-trophy.vercel.app/?username=Cameron2525&theme=onedark&no-frame=true&margin-w=4)
-![Trophy](https://github-profile-trophy.vercel.app/?username=Cameron2525&theme=onedark&column=3)
-![Trophy](https://github-profile-trophy.vercel.app/?username=Cameron2525&theme=onedark&row=2&column=4)
+<!-- Display a single row of trophies (or fewer) -->
+![Trophy](https://github-profile-trophy.vercel.app/?username=Cameron2525&theme=onedark&row=1&column=3)
+
+## 🌟 Live Animated Image
+
+<!-- A moving GIF as a live animated image -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" alt="Moving Rocket" width="200" />
+</p>
 
 ## 💻 Languages and Tools
 <p>
