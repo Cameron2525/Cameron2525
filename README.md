@@ -9,7 +9,12 @@ I'm always looking for opportunities to work on innovative projects, share ideas
 Fun fact: When I’m not coding, you’ll find me cracking puzzles—both in code and in escape rooms. 🧩🔐
 
 ## 🏆 GitHub Trophies
-<!-- Optionally include your GitHub trophies here -->
+
+<!-- These trophy images come from the popular github-profile-trophy project -->
+![Trophy](https://github-profile-trophy.vercel.app/?username=Cameron2525&theme=onedark&row=1&column=4)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Cameron2525&theme=onedark&no-frame=true&margin-w=4)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Cameron2525&theme=onedark&column=3)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Cameron2525&theme=onedark&row=2&column=4)
 
 ## 💻 Languages and Tools
 <p>
