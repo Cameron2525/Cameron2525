@@ -1,73 +1,39 @@
-# 🚀 Kicking off 2025 with Code, Creativity & Collaboration!
+# 🚀 Hey, I'm Cameron!  
 
-Hi there! I'm **Cameron Slabbert**, a passionate web developer diving deep into **React**, **JavaScript**, and **UI/UX design**. I love creating **beautiful, interactive, and responsive web experiences** while collaborating with other developers on exciting open-source projects.
+Howzit! I’m a Junior Developer based in Kenilworth, Cape Town, with skills in WordPress, HTML, CSS, JavaScript, and Figma. I’m passionate about building websites that are clean, functional, and visually skrik-vir-niks. My journey hasn’t always been smooth, but those challenges have fueled my hustle, creativity, and drive to deliver quality work. I’m here to bring fresh energy and solid solutions to every project. 🚀
 
-Right now, I'm sharpening my skills in **CSS animations** and **front-end development**, building seamless web applications that delight users.  
+📫 **Let’s connect**: Open to collabs, ideas, or tech chats!  
 
-I'm always on the lookout for opportunities to **work on innovative projects**, **share ideas**, and **learn from the tech community**. If you love building amazing web apps or designing sleek interfaces, let’s **connect and collaborate!**
-
-📫 **Reach out** for collaborations, ideas, or just a tech chat!
-
-**Fun fact:** When I'm not coding, you'll find me cracking puzzles—both in code and in escape rooms. 🧩🔐
+**Fun fact:** I love puzzles—both in code and escape rooms 🧩🔐  
 
 ---
 
 ## 🏆 GitHub Trophies
-
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Cameron2525&theme=onedark&row=1&column=3)
 
 ---
 
-## 🌟 Live Animated GIF
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" alt="Moving Rocket" width="200" />
-</p>
-
----
-
-## 💻 Languages & Tools
-
+## 💻 Skills
 <p>
-  <a href="https://cameron2525.github.io/Personal-Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  </a>
-  <a href="https://cameron2525.github.io/Personal-Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  </a>
-  <a href="https://cameron2525.github.io/PokemonSearchApp/" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" alt="React" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  </a>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-
 <section id="stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cameron2525&theme=tokyonight" alt="Github Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cameron2525&theme=tokyonight" alt="Github Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cameron2525&theme=tokyonight" alt="Programming Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cameron2525&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cameron2525&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cameron2525&theme=tokyonight" />
 </section>
 
 ---
 
-## 👀 Profile Views
-
-<div>
-  <img src="https://komarev.com/ghpvc/?username=Cameron2525&color=blueviolet&style=plastic" alt="Profile Views" />
-</div>
-
----
-
-## ⏱ WakaTime Stats
-
-<section id="waka">
-  <!-- Add your WakaTime stats here -->
-</section>
+## 🌟 Animated GIF
+<p align="center">
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="180" />
+</p>
