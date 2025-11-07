@@ -1,26 +1,33 @@
-# 🚀 Kicking off 2025 with code, creativity, and collaboration!
+# 🚀 Kicking off 2025 with Code, Creativity & Collaboration!
 
-I'm a passionate web developer diving deeper into React, JavaScript, and UI/UX design. I'm all about creating beautiful, functional web experiences and collaborating with other developers on exciting open-source projects. Right now, I'm perfecting my skills in CSS animations and building interactive, responsive web applications.
+Hi there! I'm **Cameron Slabbert**, a passionate web developer diving deep into **React**, **JavaScript**, and **UI/UX design**. I love creating **beautiful, interactive, and responsive web experiences** while collaborating with other developers on exciting open-source projects.
 
-I'm always looking for opportunities to work on innovative projects, share ideas, and learn from others in the tech community. If you're into designing seamless user interfaces or building amazing web apps, let's connect and collaborate!
+Right now, I'm sharpening my skills in **CSS animations** and **front-end development**, building seamless web applications that delight users.  
 
-📫 Reach out for exciting collaborations or just to chat about tech!
+I'm always on the lookout for opportunities to **work on innovative projects**, **share ideas**, and **learn from the tech community**. If you love building amazing web apps or designing sleek interfaces, let’s **connect and collaborate!**
 
-Fun fact: When I’m not coding, you’ll find me cracking puzzles—both in code and in escape rooms. 🧩🔐
+📫 **Reach out** for collaborations, ideas, or just a tech chat!
+
+**Fun fact:** When I'm not coding, you'll find me cracking puzzles—both in code and in escape rooms. 🧩🔐
+
+---
 
 ## 🏆 GitHub Trophies
 
-<!-- Display a single row of trophies (or fewer) -->
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Cameron2525&theme=onedark&row=1&column=3)
 
-## 🌟 Live Animated Image
+---
 
-<!-- A moving GIF as a live animated image -->
+## 🌟 Live Animated GIF
+
 <p align="center">
   <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" alt="Moving Rocket" width="200" />
 </p>
 
-## 💻 Languages and Tools
+---
+
+## 💻 Languages & Tools
+
 <p>
   <a href="https://cameron2525.github.io/Personal-Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
@@ -39,17 +46,28 @@ Fun fact: When I’m not coding, you’ll find me cracking puzzles—both in cod
   </a>
 </p>
 
+---
+
 ## 📊 GitHub Stats
+
 <section id="stats">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cameron2525&theme=tokyonight" alt="Github Profile Details" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cameron2525&theme=tokyonight" alt="Github Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cameron2525&theme=tokyonight" alt="Programming Languages" />
 </section>
 
+---
+
+## 👀 Profile Views
+
 <div>
   <img src="https://komarev.com/ghpvc/?username=Cameron2525&color=blueviolet&style=plastic" alt="Profile Views" />
 </div>
 
+---
+
+## ⏱ WakaTime Stats
+
 <section id="waka">
-  <!-- Additional WakaTime stats can go here -->
+  <!-- Add your WakaTime stats here -->
 </section>
