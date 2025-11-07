@@ -1,10 +1,10 @@
 # 🚀 Hey, I'm Cameron!  
 
-Howzit! I’m a Junior Developer based in Kenilworth, Cape Town, with skills in WordPress, HTML, CSS, JavaScript, and Figma. I’m passionate about building websites that are clean, functional, and visually skrik-vir-niks. My journey hasn’t always been smooth, but those challenges have fueled my hustle, creativity, and drive to deliver quality work. I’m here to bring fresh energy and solid solutions to every project. 🚀
+Howzit! I’m a Junior web Developer/Designer based in Kenilworth, Cape Town, with skills in WordPress, HTML, CSS, JavaScript, and Figma. I’m passionate about building websites that are clean, functional, and visually skrik-vir-niks. I’m here to bring fresh energy and solid solutions to every project. 🚀
 
 📫 **Let’s connect**: Open to collabs, ideas, or tech chats!  
 
-**Fun fact:** I love puzzles—both in code and escape rooms 🧩🔐  
+**Fun fact about me:** 🚗 I’m a lowrider car enthusiast and love car culture.  
 
 ---
 
